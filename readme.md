@@ -39,5 +39,9 @@
 ```
 
 ```c
+    #include <sys/socket.h>
+    
+    this library creates a socket interface, which is bound to a /file/
   
 ```
+
